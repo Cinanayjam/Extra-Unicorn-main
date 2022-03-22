@@ -68,6 +68,7 @@ header {
 }
 
 header h1 {
+   
     font-size: 2.5rem;
 }
 
@@ -144,9 +145,7 @@ main .card-project h2 {
 ** Footer
 */
 
-footer .a {
-   
-}
+
  footer ul {
      list-style: none;
      display: grid; /*systeme de grille*/
